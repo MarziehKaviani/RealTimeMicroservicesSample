@@ -1,0 +1,15 @@
+.env
+__pycache__/
+__pycache__
+*.pyc
+*.pyo
+*.svg
+*.pyd
+*.ipynb
+venv/
+db.sqlite3
+.vscode/
+*.sqlite3
+*.db
+.idea/
+.idea
